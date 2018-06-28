@@ -1,0 +1,4 @@
+# Run selenium
+*/2 * * * * root /usr/bin/python3.6 /home/hyamada/selenium-git/chrome_test01.py
+*/2 * * * * root /usr/bin/python3.6 /home/hyamada/selenium-git/firefox_test01.py
+

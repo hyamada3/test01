@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python3.6 /home/hyamada/selenium/test24.py
+
